@@ -18,10 +18,10 @@ function App() {
   return (
 <>
 <Routes>
-<Route path='/' element={< Home/>}></Route>
-<Route path='/collection' element={< Collection/>}></Route>
-<Route path='/Page' element={< Page/>}></Route>
-<Route path='/Android' element={< Android/>}></Route>
+<Route path='/task-6-22' element={< Home/>}></Route>
+<Route path='/task-6-22/collection' element={< Collection/>}></Route>
+<Route path='/task-6-22/Page' element={< Page/>}></Route>
+<Route path='/task-6-22/Android' element={< Android/>}></Route>
 </Routes>
 
   </>
